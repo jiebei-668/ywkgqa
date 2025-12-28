@@ -1,0 +1,1 @@
+{"index_key": "Flat", "index_param": "", "index_path": "/home/jiebei/ywkgqa/.retriv/dr_corom_emb/faiss.index", "size in bytes": 2746413, "avg_search_speed_ms": 0.052639453761281166, "99p_search_speed_ms": 0.0783927698603293, "reconstruction error %": 0.0, "nb vectors": 894, "vectors dimension": 768, "compression ratio": 0.9999836149916272}
